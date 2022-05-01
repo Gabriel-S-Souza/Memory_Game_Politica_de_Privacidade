@@ -47,6 +47,7 @@ If you have any questions or suggestions about our Privacy Policy, please don't 
 Contact information:
 
 Email: gabriel12saraiva@gmail.com
+
 <a id="ancora1"></a>
 # Política de Privacidade de Memory Game
 
