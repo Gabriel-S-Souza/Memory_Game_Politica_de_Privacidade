@@ -1,11 +1,7 @@
 Memory Game Privacy Policy (en-US)
 ----------------
 
-### Indiomas:
-- [Política de Privacidade de Memory Game em Português-BR](#ancora1)
----------------
-
-
+- [Política de Privacidade de Memory Game pt-BR](#ancora1)
 
 ### Introduction
 Our privacy policy will help you understand what information we collect on Memory Game, how Memory Game uses that information and what choices you have.
