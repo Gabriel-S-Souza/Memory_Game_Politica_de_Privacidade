@@ -2,9 +2,9 @@ Política de Privacidade
 ----------------
 
 ### Introdução  
-Nossa política de privacidade ajudará você a entender quais informações coletamos em Memory Game, como Memory Game as usa e quais opções você tem.
+Nossa política de privacidade ajudará você a entender quais informações coletamos em Memory Game, como as Memory Game usa e quais opções você tem.
 Criamos Memory Game como um aplicativo gratuito. Este SERVIÇO é fornecido por Memory Game sem nenhum custo e destina-se ao uso como está.
-Se você optar por usar nosso Serviço, concorda com a coleta e uso de informações em relação a esta política. As Informações Pessoais que coletamos são usadas para fornecer e melhorar o Serviço. Não usaremos ou compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
+Se você optar por usar nosso Serviço, concorda com a coleta e uso de informações em relação a esta política. As Informações Pessoais que podemos coletar podem ser usadas para fornecer e melhorar o Serviço. Não usaremos ou compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
 Os termos utilizados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, que podem ser acessados em nosso site, salvo definição em contrário nesta Política de Privacidade.
 
 ### Coleta e uso de informações
@@ -12,8 +12,8 @@ Para uma melhor experiência ao usar nosso Serviço, podemos exigir que você no
 O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
 
 ### Cookies
-Cookies são arquivos com pequena quantidade de dados que é comumente usado como um identificador único anônimo. Eles são enviados para o seu navegador a partir do site que você visita e são armazenados na memória interna de seus dispositivos.
-Este Serviço não usa esses “cookies” explicitamente. No entanto, o aplicativo pode usar código de terceiros e bibliotecas que usam “cookies” para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado ao seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
+Cookies são arquivos com pequena quantidade de dados que é comumente usado como um identificador único anônimo. Eles são enviados para o seu dispositivo a partir do site ou app que você visita e são armazenados na memória interna de seu dispositivo.
+Este Serviço atualmente não usa esses “cookies” explicitamente. No entanto, o aplicativo pode vir a utilizar “cookies” no futuro para melhorar o serviços oferecido, e nesta ocasião você terá a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado ao seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
 
 ### Informações de localização
 Alguns dos serviços podem usar informações de localização transmitidas dos telefones celulares dos usuários. Usamos essas informações apenas dentro do escopo necessário para o serviço designado.
