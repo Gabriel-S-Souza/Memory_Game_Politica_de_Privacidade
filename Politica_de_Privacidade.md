@@ -1,6 +1,9 @@
 Memory Game Privacy Policy (en-US)
 ----------------
 
+- [Política de Privacidade de Memory Game pt-BR](#ancora1)
+
+
 ### Introduction
 Our privacy policy will help you understand what information we collect on Memory Game, how Memory Game uses that information and what choices you have.
 Memory Game was created as a free application. This SERVICE is provided by Memory Game at no charge and is intended for use as is.
@@ -46,12 +49,12 @@ Contact information:
 
 Email: gabriel12saraiva@gmail.com
 
-Política de Privacidade de Memory Game (pt-BR)
-----------------
+<a id="ancora1"></a>
+# Política de Privacidade de Memory Game
 
 ### Introdução  
 Nossa política de privacidade ajudará você a entender quais informações coletamos em Memory Game, como Memory Game usa essas informações e quais opções você tem.
-Memory Game foi criado como um aplicativo gratuito. Este SERVIÇO é fornecido por Memory Game sem nenhum custo e destina-se ao uso como está.
+Criamos Memory Game como um aplicativo gratuito. Este SERVIÇO é fornecido por Memory Game sem nenhum custo e destina-se ao uso como está.
 Se você optar por usar nosso Serviço, concorda com a coleta e uso de informações em relação a esta política. As informações pessoais que podemos coletar podem ser usadas para fornecer e melhorar o Serviço. Não usaremos ou compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
 Os termos utilizados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, que podem ser acessados em nosso site, salvo definição em contrário nesta Política de Privacidade.
 
@@ -92,7 +95,5 @@ Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade,
 
 Informações de contato:
 
-Email: gabriel12saraiva@gmail.com
-
----
+Email: gabriel12saraiva@gmail.com  
 
