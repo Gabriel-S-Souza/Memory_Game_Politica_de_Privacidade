@@ -13,7 +13,7 @@ O aplicativo usa serviços de terceiros que podem coletar informações usadas p
 
 ### Cookies
 Cookies são arquivos com pequena quantidade de dados que é comumente usado como um identificador único anônimo. Eles são enviados para o seu dispositivo a partir do site ou app que você visita e são armazenados na memória interna de seu dispositivo.
-Este Serviço atualmente não usa esses “cookies” explicitamente. No entanto, o aplicativo pode vir a utilizar “cookies” no futuro para melhorar o serviços oferecido, e nesta ocasião você terá a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado ao seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
+Este Serviço atualmente não usa esses “cookies” explicitamente. No entanto, o aplicativo pode vir a utilizar “cookies” no futuro para melhorar a experiência de uso, e nesta ocasião você terá a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado ao seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
 
 ### Informações de localização
 Alguns dos serviços podem usar informações de localização transmitidas dos telefones celulares dos usuários. Usamos essas informações apenas dentro do escopo necessário para o serviço designado.
