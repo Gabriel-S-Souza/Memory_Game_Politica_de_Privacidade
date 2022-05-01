@@ -1,4 +1,4 @@
-Política de Privacidade  
+Política de Privacidade de Memory Game
 ----------------
 
 ### Introdução  
