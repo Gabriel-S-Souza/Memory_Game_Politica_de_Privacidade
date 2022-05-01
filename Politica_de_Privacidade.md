@@ -41,5 +41,6 @@ Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, rec
 
 ### Entre em contato conosco
 Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar.
+
 Informações de contato:
 Email: gabriel12saraiva@gmail.com  
